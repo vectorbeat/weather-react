@@ -11,7 +11,7 @@ export default function App() {
 
         <div className="repo-link">
           <a
-            href="https://github.com/vectorbeat/weather-app"
+            href="https://github.com/vectorbeat/weather-react"
             target="_blank"
             rel="noreferrer"
           >
