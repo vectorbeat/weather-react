@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import axios from "axios";
 
 export default function Search() {
@@ -14,7 +14,7 @@ export default function Search() {
           </div>
           <div className="input-group mb-3">
             <input
-              type="text"
+              type="search"
               className="form-control"
               id="search-box"
               placeholder="Enter city..."
